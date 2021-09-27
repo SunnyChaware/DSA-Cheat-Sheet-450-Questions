@@ -6,7 +6,7 @@ void negativeOneSide(int arr[], int n)
     sort(arr,arr+n);
     for(int i=0;i<n;i++)cout<<arr[i]<<" ";
 }
-
+5
 int main()
 {
     int n;
